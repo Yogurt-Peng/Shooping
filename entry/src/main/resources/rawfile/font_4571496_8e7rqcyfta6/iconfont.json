@@ -1,0 +1,107 @@
+{
+  "id": "4571496",
+  "name": "鸿蒙",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3837862",
+      "name": "微信标签",
+      "font_class": "weixinbiaoqian",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "9363408",
+      "name": "群聊",
+      "font_class": "qunliao",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "20221478",
+      "name": "聊天的朋友",
+      "font_class": "liaotiandepengyou",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "24329349",
+      "name": "公众号",
+      "font_class": "gongzhonghao",
+      "unicode": "e730",
+      "unicode_decimal": 59184
+    },
+    {
+      "icon_id": "39048999",
+      "name": "新的朋友-copy",
+      "font_class": "xindepengyou",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "1418235",
+      "name": "我",
+      "font_class": "wo",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "493216",
+      "name": "好友",
+      "font_class": "haoyou",
+      "unicode": "e783",
+      "unicode_decimal": 59267
+    },
+    {
+      "icon_id": "493219",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "e786",
+      "unicode_decimal": 59270
+    },
+    {
+      "icon_id": "493454",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e79f",
+      "unicode_decimal": 59295
+    },
+    {
+      "icon_id": "493479",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e7a6",
+      "unicode_decimal": 59302
+    },
+    {
+      "icon_id": "1311622",
+      "name": "发现",
+      "font_class": "faxian",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "5302289",
+      "name": "下一步",
+      "font_class": "xiayibu",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "5302290",
+      "name": "上一步",
+      "font_class": "shangyibu",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "10678401",
+      "name": "back",
+      "font_class": "back",
+      "unicode": "e6db",
+      "unicode_decimal": 59099
+    }
+  ]
+}
